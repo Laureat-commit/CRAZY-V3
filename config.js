@@ -10,7 +10,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~SAhjSZ5Y#yfpnd6MWMTPm2aX4TYHfl6CFmbTZ9V9-7Nt2vRIOyXw",
+SESSION_ID: process.env.SESSION_ID || "CRAZY;;;yZxEhDCA#WBNOiNG7BZNpyYKladHqxxU2Z7jYAv90FmA5RtGpb-I",
 // add your Crazy Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -18,7 +18,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY CRAZY-V3 🎉*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY WASUKE et doma🎉*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -32,7 +32,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/hlfa1a.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "CRAZY-MD-V3",
+BOT_NAME: process.env.BOT_NAME || "CRAZY DEV TU N'EST PAS BEAU",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "CRAZY-MD_V3💫",
 // type sticker pack name 
